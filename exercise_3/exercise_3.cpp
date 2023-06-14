@@ -80,5 +80,4 @@ int main() {
 
 	varPenerbit1->tambahBuku(varBuku1);
 	varPenerbit2->tambahBuku(varBuku2);
-
 }
